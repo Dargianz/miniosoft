@@ -1,9 +1,49 @@
-MinIO Project, (C) 2015-2023 MinIO, Inc.
+MinioSoft Notice and Attribution
+=================================
 
-This product includes software developed at MinIO, Inc.
-(https://min.io/).
+MinioSoft is a community-maintained, modified fork of MinIO, an S3-compatible
+object storage server.
 
-The MinIO project contains unmodified/modified subcomponents too with
-separate copyright notices and license terms. Your use of the source
-code for these subcomponents is subject to the terms and conditions
-of GNU Affero General Public License 3.0.
+Copyright and license
+---------------------
+
+This repository contains original MinIO code and contributions from its
+copyright holders. The software is licensed under the GNU Affero General
+Public License, version 3 (AGPL-3.0), except where a different license is
+identified in a specific file or component.
+
+The complete license text is provided in LICENSE. A copy of the license is
+available at:
+
+https://www.gnu.org/licenses/agpl-3.0.html
+
+Fork and modification disclosure
+---------------------------------
+
+This project is maintained by Dargianz as MinioSoft. It is not an official
+MinIO product and is not endorsed by or affiliated with MinIO, Inc.
+
+MinioSoft contains modifications made by Dargianz and other community
+contributors. The corresponding source for the version operated as a network
+service is available at:
+
+https://github.com/Dargianz/miniosoft
+
+Users who interact with a deployed MinioSoft service should be directed to
+the corresponding source for the exact version and modifications running on
+that service, in accordance with the AGPL-3.0.
+
+Trademark notice
+----------------
+
+"MinIO" and related marks are trademarks of their respective owners. They
+are used only to describe the upstream project and the origin of this fork.
+The MinioSoft name, branding, and project identity are separate and do not
+indicate upstream sponsorship or endorsement.
+
+Third-party components
+----------------------
+
+This distribution includes third-party components. Their respective license
+and attribution notices remain applicable. See the relevant source files,
+module metadata, and documentation for component-specific notices.
