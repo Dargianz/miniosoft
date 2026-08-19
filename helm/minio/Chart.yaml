@@ -10,7 +10,7 @@ keywords:
   - s3
   - cluster
 home: https://min.io
-icon: https://raw.githubusercontent.com/Dargianz/miniosoft/master/.github/assets/miniosoft-console-logo.png
+icon: https://raw.githubusercontent.com/Dargianz/miniosoft/rebrand/.github/assets/miniosoft-console-logo.png
 sources:
 - https://github.com/minio/minio
 maintainers:
